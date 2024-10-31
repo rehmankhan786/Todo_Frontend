@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rehmankhan786/Todo_Frontend.git/static/css/main.ee85339a.css",
+    "main.js": "/rehmankhan786/Todo_Frontend.git/static/js/main.f586db5c.js",
+    "index.html": "/rehmankhan786/Todo_Frontend.git/index.html",
+    "main.ee85339a.css.map": "/rehmankhan786/Todo_Frontend.git/static/css/main.ee85339a.css.map",
+    "main.f586db5c.js.map": "/rehmankhan786/Todo_Frontend.git/static/js/main.f586db5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee85339a.css",
+    "static/js/main.f586db5c.js"
+  ]
+}
